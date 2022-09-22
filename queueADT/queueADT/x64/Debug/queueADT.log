@@ -1,0 +1,8 @@
+﻿  queueADT.c
+C:\Users\82102\Desktop\2022\자료구조\2022 과제\queueADT\queueADT\queueADT.c(53,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\Desktop\2022\자료구조\2022 과제\queueADT\queueADT\queueADT.c(55,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82102\Desktop\2022\자료구조\2022 과제\queueADT\queueADT\queueADT.c(192,19): warning C4047: '함수': 'queue *'의 간접 참조 수준이 'queue **'과(와) 다릅니다.
+C:\Users\82102\Desktop\2022\자료구조\2022 과제\queueADT\queueADT\queueADT.c(192,14): warning C4024: 'is_full': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\82102\Desktop\2022\자료구조\2022 과제\queueADT\queueADT\queueADT.c(198,18): warning C4047: '함수': 'queue *'의 간접 참조 수준이 'queue **'과(와) 다릅니다.
+C:\Users\82102\Desktop\2022\자료구조\2022 과제\queueADT\queueADT\queueADT.c(198,13): warning C4024: '__init__': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  queueADT.vcxproj -> C:\Users\82102\Desktop\2022\자료구조\2022 과제\queueADT\x64\Debug\queueADT.exe

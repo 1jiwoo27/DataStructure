@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84fc2d9e-d6d3-4696-b4a7-ac31ed2b53f0": {
+      "ProjectGuid": "84fc2d9e-d6d3-4696-b4a7-ac31ed2b53f0",
+      "DisplayName": "queueADT",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

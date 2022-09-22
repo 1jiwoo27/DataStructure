@@ -1,0 +1,5 @@
+﻿  LinkedList.c
+C:\Users\82102\source\repos\LinkedListADT\LinkedListADT\LinkedList.c(60,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\LinkedListADT\LinkedListADT\LinkedList.c(61,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82102\source\repos\LinkedListADT\LinkedListADT\LinkedList.c(49,7): warning C4101: 'pos' :참조되지 않은 지역 변수입니다.
+  LinkedListADT.vcxproj -> C:\Users\82102\source\repos\LinkedListADT\x64\Debug\LinkedListADT.exe
